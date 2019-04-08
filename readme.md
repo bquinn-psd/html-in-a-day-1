@@ -15,8 +15,8 @@
 
 #### Essential Extensions
 
-* [Color Picker]
-* [Web Developer]
+* [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en)
+* [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=en-US)
 
 ### Additional Resources
 
